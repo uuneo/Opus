@@ -1,11 +1,11 @@
 #import <Foundation/Foundation.h>
 
-//! Project version number for OpusBinding.
-FOUNDATION_EXPORT double OpusBindingVersionNumber;
+//! Project version number for Opus.
+FOUNDATION_EXPORT double OpusVersionNumber;
 
-//! Project version string for OpusBinding.
-FOUNDATION_EXPORT const unsigned char OpusBindingVersionString[];
+//! Project version string for Opus.
+FOUNDATION_EXPORT const unsigned char OpusVersionString[];
 
-#import <OpusBinding/DataItem.h>
-#import <OpusBinding/OggOpusWriter.h>
-#import <OpusBinding/OggOpusReader.h>
+#import <Opus/DataItem.h>
+#import <Opus/OggOpusWriter.h>
+#import <Opus/OggOpusReader.h>
